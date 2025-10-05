@@ -1,1 +1,2 @@
-This is my new file!
+# Your AI model code goes here
+print('Hello AI Modeler')
